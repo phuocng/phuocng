@@ -37,6 +37,12 @@ You might be interested in my products:
         </tr>
         <tr valign="top">
             <td width="25%" align="center">
+                <a href="https://getfrontend.tips">
+                    <img src="/img/front-end-tips.png" />
+                    <div>Tiny tips, tricks & best practices for front-end development</div>
+                </a>
+            </td>
+            <td width="25%" align="center">
                 <a href="https://htmldom.dev">
                     <img src="/img/html-dom.png" />
                     <div>How to manage HTML DOM with vanilla JavaScript</div>
@@ -54,12 +60,17 @@ You might be interested in my products:
                     <div>A collection of patterns to create a responsive web page</div>
                 </a>
             </td>
+        </tr>
+        <tr valign="top">
             <td width="25%" align="center">
                 <a href="https://thisthat.dev">
                     <img src="/img/this-vs-that.png" />
                     <div>The differences between ___ and ___ in the front-end development</div>
                 </a>
             </td>
+            <td width="25%" align="center"></td>
+            <td width="25%" align="center"></td>
+            <td width="25%" align="center"></td>
         </tr>
     </tbody>
 </table>
